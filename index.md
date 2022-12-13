@@ -9,3 +9,7 @@
 ```
 print("Hello world")
 ```
+
+- [x] Created my first repository
+- [ ] Finish this lesson
+- [ ] Import my personal project to github
